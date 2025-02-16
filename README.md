@@ -73,5 +73,5 @@ Then the combined feature maps is again subjected a few 1 x 1 convolutional laye
 ## Conclusion
 
 As when compared to other algorithm YOLO is found be more advantageous and has higher efficiency and accuracy. Hence, we use the same approach to identify triple riding.
-Since we are implementing our project using YOLO algorithm which is a CNN based approach, results are obtained at fastest speed ![image](https://github.com/user-attachments/assets/e2e8c99a-67f6-42a1-8c5e-a91468aeaf8b)
+Since we are implementing our project using YOLO algorithm which is a CNN based approach, results are obtained at fastest speed
 
